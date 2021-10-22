@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-v7-with-away-async-promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "bfj": "^7.0.2",
+    "crypto-js": "^4.1.1",
+    "express": "^4.17.1",
+    "fast-json-stringify": "^2.7.10",
+    "workerpool": "^6.1.5"
+  },
+  "devDependencies": {
+    "loadtest": "^5.1.2"
+  }
+}
