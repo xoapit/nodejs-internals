@@ -6,3 +6,4 @@ setTimeout(() => {
 while (!flag) {
   console.log("still waiting");
 }
+console.log("end");
